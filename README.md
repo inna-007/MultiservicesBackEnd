@@ -1,6 +1,6 @@
 ## MultiServices App
 
-Une application développée avec **Spring Boot** pour multiservices.
+Une application développée avec **Spring Boot** pour gérer une plateforme de multi-services.
 
 ##  Fonctionnalités
 
@@ -10,7 +10,7 @@ Une application développée avec **Spring Boot** pour multiservices.
 - ✅ Connexion à une base de données (MySQL)
 
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 
 - Java 17+  
 - Spring Boot  
@@ -20,7 +20,7 @@ Une application développée avec **Spring Boot** pour multiservices.
 - MySQL  
 - [Angular frontend]
 
-## 📦 Installation
+## Installation
 
   **Cloner le projet :**
    ```bash
