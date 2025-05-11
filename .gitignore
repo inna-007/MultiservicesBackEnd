@@ -1,0 +1,28 @@
+# Maven target directory
+target/
+
+# Eclipse/IntelliJ IDEA project files
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Maven wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# Uploaded files
+uploads/ 
